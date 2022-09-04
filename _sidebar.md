@@ -36,9 +36,14 @@
     [c6.1高频](./docs/base/c6.1高频.md)
 
     [c6.2项目总结](./docs/base/c6.2项目总结.md)
+  
+- 算法（Java）
 
+  - [1.1剑指Offer](./docs/base/1.1剑指Offer.md)
+  
+  - [刷题](./docs/base/刷题.md)
 
-* 算法
+* 算法（C++）
   * [0.绪论](./docs/0.绪论.md)
   * [1.二叉树](./docs/1.二叉树.md)
   * [2.BFS_DFS_回溯](./docs/2.BFS_DFS_回溯.md)
