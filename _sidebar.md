@@ -42,8 +42,8 @@
   - [软件开发过程](./docs/base/软件开发过程.md)
   - [python](./docs/python.md)
   - [7.0测开](./docs/base/7.0测开.md)
-- [7.0测开](./docs/base/7.0测开.md)
-
+  - [面经](./docs/面经.md)
+  
 - 算法（Java）
 
   - [1.1剑指Offer](./docs/base/1.1剑指Offer.md)
